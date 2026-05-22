@@ -96,7 +96,7 @@ Feel free to reach out if you want to:
 
 <div align="center">
 
-### "The best way to predict the future is to invent it." – 
+### "He who fights can lose. He who doesn't fight has already lost." –
 
 ⭐ If you find my work interesting, feel free to star some of my repositories!
 
